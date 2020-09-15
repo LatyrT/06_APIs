@@ -26,4 +26,4 @@ None
 
 ## Results
 
-![GitHub Logo](002_VacationPy\002-Output/2020-03-24_19h20_48.png)
+![GitHub Logo](2020-03-24_19h20_48.png)
