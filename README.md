@@ -16,16 +16,14 @@ The idea is to find the ideal vacation location with the best weather.
 
 
 ## Pre-requisite(s)
-Install the required version of chromedriver.exe (https://chromedriver.chromium.org/home)
+Set up a password/account (Google APIs)
 
 ## Methods
 * Python/Jupyter Notebook
-* Flask
-* Used HTML, JavaScript and HTML
 
 ## Website or Links
 None
 
 ## Results
 
-![GitHub Logo](000_Instructions/002_VacationPy\002-Output/2020-03-24_19h20_48.png)
+![GitHub Logo](2020-03-24_19h20_48.png)
