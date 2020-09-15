@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="Best_Vacation.jpeg">
-</p>
+</p> 
 
 In this assignment, the objective is to build a series of charts to analayze the correlation between the temperature and other factors:
 * Scatter plots,
